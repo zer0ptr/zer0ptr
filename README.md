@@ -6,4 +6,4 @@
 - ⚡ Fun fact: Currently working hard to intern at [ISCAS](https://is.cas.cn/) during the summer vacation.
 
 # ✨ Github Stats
-https://github-readme-stats.vercel.app/api?username=zer0ptr&show_icons=true
+![](https://github-readme-stats.vercel.app/api?username=zer0ptr&show_icons=true)
