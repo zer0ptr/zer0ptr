@@ -2,8 +2,8 @@
 
 <!--[Buy me a coffee, please...! 🥺🥺🥺](https://www.buymeacoffee.com/arttnba3)-->
 
-| Computer Science Enthusiast | Binary Security Enthusiast @[SecureNexusLab](https://securenexuslab.github.io)  | ENTP-T 
-| ------------- | ------------- | ------------- | 
+| Computer Science Enthusiast | Binary Security Enthusiast @[SecureNexusLab](https://securenexuslab.github.io) | Leader of [OpenDGSSZ](https://github.com/OpenDGSSZ) | ENTP-T |
+| ------------- | ------------- | ------------- |  ------------- |
 
 |  ![zer0ptr's Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=zer0ptr&show_icons=true&hide_border=true&icon_color=1AB1C1&text_color=42BFCC&bg_color=ffffff&theme=vue) | ![Most Used Language](https://github-readme-stats-three-snowy-60.vercel.app/api/top-langs/?username=zer0ptr&layout=compact&hide_border=true&theme=buefy&hide=java,javascript,html,css,shell,Batchfile,XSLT) |
 | ------------- | ------------- |
@@ -39,12 +39,12 @@
 
 - :books: PhD student of [NSCLab](http://nsclab.org/nuwa/) @ [SUT](https://www.swinburne.edu.au/), co-supervised by [Professor Yang Xiang](https://nsclab.org/yang) and [Professor Sheng Wen](https://experts.swinburne.edu.au/3615-sheng-wen).
 - :older_man: Computer science lover, majoring `System Security` now :)
-- :ninja:​ Retired baby pwner of [L-team](https://l.xdsec.org/) @ [XDSEC](https://www.xdsec.org) and [El3ctronic](https://ctftime.org/team/266401/) @ [D^3CTF](https://github.com/D-3CTF)
+- :ninja: Retired baby pwner of [L-team](https://l.xdsec.org/) @ [XDSEC](https://www.xdsec.org) and [El3ctronic](https://ctftime.org/team/266401/) @ [D^3CTF](https://github.com/D-3CTF)
 - :thinking: One of current active maintainers of [CTF-wiki](https://ctf-wiki.org/), mainly focusing on Pwn and Reverse.
 - :hammer: ~~Trash~~ Creator of a bit of C & C++ & Java & Python & Golang & ...
 - :tophat: Got my bachelor's degree of `Cyberspace Security` from [SCE](https://ce.xidian.edu.cn) @ [XDU](https://en.xidian.edu.cn/).
 - :tophat: Got my bachelor's degree(honours) of `Computer Science` from [SoSCET](https://www.swinburne.edu.au/about/our-structure/organisational-structure/schools-departments/school-science-computing-engineering-technologies/) @ [SUT](https://www.swinburne.edu.au/).
-- :cloud:​ My blog(Chinese): [arttnba3.cn](https://arttnba3.cn). You can also visit the English version at [blog.arttnba3.cn](https://blog.arttnba3.cn) (still in work...)
+- :cloud: My blog(Chinese): [arttnba3.cn](https://arttnba3.cn). You can also visit the English version at [blog.arttnba3.cn](https://blog.arttnba3.cn) (still in work...)
 - :e-mail: You can contact me at [arttnba@gmail.com](mailto:arttnba@gmail.com). **Don't type the username as arttnba3 here**.
 - :arrows_counterclockwise: I'll follow you back (not always in time) if your Github can let me know who you are explicitly : )
 
