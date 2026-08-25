@@ -14,8 +14,9 @@ Security Researcher who's really interested in IoT security, Agent Security, an
 ### Project
 |Project|What is this?|
 |---|---|
-|[ai-assisted-agents-tutorial](https://github.com/SecureNexusLab/ai-assisted-agents-tutorial) (19star★)|一套面向自学、培训引导与项目实践的智能体入门教程，核心目标不是让学习者先成为 AI 理论专家，而是通过实操推动理论、项目驱动学习、AI 辅助开发，在较短时间内建立智能体的完整认知，并能够独立完成简单智能体项目。|
-|[NaCl](https://github.com/HT7-Lab/NaCl)|NaCl Agent is a local AI security workbench built on the Arena coding-agent runtime. It combines a terminal agent, a local Web GUI, multi-provider model access, persistent sessions, tool execution, and Agent Skills into one source checkout.|
+|[ai-assisted-agents-tutorial](https://github.com/SecureNexusLab/ai-assisted-agents-tutorial) (23star★)|一套面向自学、培训引导与项目实践的智能体入门教程，核心目标不是让学习者先成为 AI 理论专家，而是通过实操推动理论、项目驱动学习、AI 辅助开发，在较短时间内建立智能体的完整认知，并能够独立完成简单智能体项目。|
+|[NaCl](https://github.com/HokagoTeaT1me/NaCl)|NaCl Agent is a local AI security workbench built on the Arena coding-agent runtime. It combines a terminal agent, a local Web GUI, multi-provider model access, persistent sessions, tool execution, and Agent Skills into one source checkout.|
+|[DeepDuck](https://github.com/HokagoTeaT1me/DeepDuck)|DeepDuck is an automated evidence-driven firmware security analysis agent. It combines firmware extraction, canonical root filesystem validation, real headless binary analysis, cross-component evidence correlation, bounded runtime validation, and provider-backed investigation under deterministic safety and budget controls.|
 
 
 
