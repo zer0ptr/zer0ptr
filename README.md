@@ -1,6 +1,6 @@
 ## Hi, I'm Hailin Zheng 👋
 
-Security Researcher who's really interested in IoT security, AI Security annd Supply Chain Security  
+Security Researcher who's really interested in IoT security, AI Security and Supply Chain Security  
 Member of @[SecureNexusLab](https://github.com/SecureNexusLab), @[CTF-Wiki](https://ctf-wiki.org)  
 Currently interning at [ISCAS·ISRC](https://isrc.iscas.ac.cn/)
 
